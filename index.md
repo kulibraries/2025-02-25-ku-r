@@ -79,6 +79,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+
+<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. <a href="https://lib.ku.edu/software-carpentry" target="_blank">Register through KU Libraries' workshop page</a>.</p>
 
 <h2 id="general">General Information</h2>
 
