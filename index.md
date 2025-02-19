@@ -14,7 +14,7 @@ humantime: "1:00 pm - 5:00 pm"    # human-readable times for the workshop e.g., 
 startdate: 2025-02-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-02-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Brian Sanderson, Ph.D", "Michelle Busch, Ph.D"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Connor Brown", "Taylor Conway", "Sarah Flynn", "Katherine Hanson", "Amanda Katzer", "Logan Swenson", "Jamene Brooks-Kieffer"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Connor Brown", "Taylor Conway", "Sarah Flynn", "Katherine Hanson", "Logan Swenson", "Jamene Brooks-Kieffer"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jamenebk@ku.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2025-02-25-ku-r  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -81,7 +81,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="registration">Registration</h2>
 
-<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. The workshop is full and registration is closed.   </p>
+<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. The workshop is full and registration is closed.</p>
 
 <h2 id="general">General Information</h2>
 
